@@ -15,6 +15,12 @@ package lab;
  * ==========================================================================
  */
 public class Specs {
+    /**
+     * 
+     * @param arr
+     * @param key
+     * @return
+     */
 
     // TODO ข้อ 4: เขียน JavaDoc ให้เมธอดนี้
     public static int firstIndexOf(int[] arr, int key) {
